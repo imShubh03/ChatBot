@@ -4,6 +4,10 @@
 
 The **CDP Support Agent Chatbot** is an AI-powered application designed to answer "how-to" questions related to four Customer Data Platforms (CDPs): **Segment, mParticle, Lytics, and Zeotap**. This chatbot extracts relevant information from the official documentation of these CDPs to guide users on performing tasks or achieving specific outcomes within each platform.
 
+## Screenshots
+![image](https://github.com/user-attachments/assets/38651140-d57c-4f74-9749-0281f0e76240)
+![image](https://github.com/user-attachments/assets/29a2b824-6f72-42a1-9aa3-66e763bc0de4)
+
 ## Features
 
 ### Core Functionalities
