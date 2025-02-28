@@ -1,0 +1,44 @@
+Zeotap is a Customer Data Platform (CDP) that enables businesses to collect, unify, and activate customer data across multiple platforms. It offers a suite of modules designed to streamline data integration, enhance customer understanding, and orchestrate personalized experiences. Below is an overview of Zeotap's key components and functionalities:
+
+1. Integrate
+
+Sources: Connect and ingest data from various sources, including server-to-server integrations, to consolidate customer information. 
+ZEOTAP DOCS
+
+Destinations: Activate and send unified customer data to multiple platforms and tools for marketing, analytics, and more. 
+ZEOTAP
+
+2. Unify
+
+Catalogue: Organize and manage your data assets to ensure consistency and accessibility.
+
+Calculated Attributes: Generate derived metrics and attributes to enrich customer profiles and facilitate advanced segmentation.
+
+ID Strategy: Implement identity resolution techniques to merge disparate data points into cohesive customer profiles.
+
+3. Segment
+
+Audiences: Create and manage customer segments based on behaviors, attributes, and predictive analytics to drive targeted marketing efforts.
+4. Orchestrate
+
+Journeys: Design and automate personalized customer workflows with actionable recommendations to enhance engagement.
+5. Dashboard
+
+Analytics: Monitor platform usage, track key performance indicators, and gain insights into data consumption metrics.
+6. Protect
+
+Consent Management: Handle customer consents and preferences to ensure compliance with data protection regulations.
+
+Customer 360: Maintain a holistic and compliant view of customer data throughout its lifecycle.
+
+Data Lifecycle: Manage data retention and deletion policies in alignment with regulatory requirements.
+
+Additional Features
+
+Target: Leverage deterministic third-party data to create and activate enriched audiences for precise targeting.
+
+ID+: Utilize Zeotap's identity solution to craft custom journeys and optimize customer interactions.
+
+Admin: Set up organizations, manage user roles, and define access permissions to maintain control over data and platform usage.
+
+For a comprehensive understanding and the most up-to-date information, refer to the official Zeotap Help Center. 
