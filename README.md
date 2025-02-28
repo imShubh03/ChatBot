@@ -86,7 +86,11 @@ NEXT_PUBLIC_SUPABASE_URL=your_supabase_url
 NEXT_PUBLIC_SUPABASE_KEY=your_supabase_key
 ```
 
+<<<<<<< HEAD
    # Replace your_google_gemini_api_key, your_supabase_url, and your_supabase_key with actual values from your Google Gemini API and Supabase account.
+=======
+### Replace your_google_gemini_api_key, your_supabase_url, and your_supabase_key with actual values from your Google Gemini API and Supabase account.
+>>>>>>> 0792c8f5885fc050aa7a102ed8973f2aa65d75da
 
 4. Run the Application Locally
 ```
